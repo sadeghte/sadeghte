@@ -1,7 +1,7 @@
 # Sadegh Teimouri  
 Blockchain & Full-Stack Web Developer  
 
-📍 **Location**: Remote | 🌐 **GitHub**: [[sadeghte](https://github.com/sadeghte)] | ✉️ **Email**: [sadeghte@gmail.com] | 🔗 **LinkedIn**: [[sadeghte](https://www.linkedin.com/in/sadegh-teimori-29790778/)]  
+📍 **Location**: Remote | 🌐 **GitHub**: [[sadeghte](https://github.com/sadeghte)] | ✉️ **Email**: [sadeghte@gmail.com] | 🔗 **LinkedIn**: [[sadeghte](https://www.linkedin.com/in/sadeghte/)]  
 
 ---
 
