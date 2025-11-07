@@ -11,16 +11,22 @@ Highly skilled and motivated full-stack developer with a strong background in de
 ---
 
 ## Skills  
-- **Languages**: JavaScript (ES6+), Solidity, Rust, Python  
+- **Languages**: Typescript, Solidity, Rust, Python  
 - **Frontend**: React, React Native, HTML5, CSS3  
 - **Backend**: Node.js, Express, MongoDB  
-- **Blockchain**: Smart contract development, tokenization, Ethereum, Zero-Knowledge proofs, Threshold Signatures  
+- **Blockchain**: Smart contract development, tokenization, Ethereum, Solana, Zero-Knowledge proofs, Threshold Signatures  
 - **Tools**: Git, Hardhat, Truffle, Web3.js, Voxel.js  
 - **Other**: Distributed systems, RESTful APIs, Multi-Party Computation, Decentralized Networks, Agile collaboration  
 
 ---
 
 ## Professional Experience  
+
+### Blockchain Developer
+**Zellular** | Remote
+- Integrated advanced cryptographic solutions into Zellular’s internal projects.
+- Implemented multi-blockchain deposit functionality for ZEX (Zellular Exchange).
+- Developed and integrated distributed security mechanisms using threshold signatures to enhance shared consensus.
 
 ### Blockchain Developer  
 **Muon Community** | Remote  
@@ -54,19 +60,34 @@ Highly skilled and motivated full-stack developer with a strong background in de
 
 ### Zellular  
 **Zellular** | [https://www.zellular.xyz/](https://www.zellular.xyz/)  
+Zellular is a light-weight consensus layer &amp; decentralized sequencer that enables developing high-throughput dapps (500,000+ TPS) in any programming language.
 - Served as a cryptography developer and problem-solver for a high-throughput dApp platform secured by EigenLayer.  
 - Designed and implemented cryptographic solutions to ensure sub-second finality and data integrity across decentralized nodes.  
 - Optimized blockchain scalability and security for applications developed in JavaScript, Python, and Go.  
-- **Crypto Custody Sub-Project (In Progress)**:  
-  - Developing a multi-chain crypto custody service with deposit addresses for secure asset management.  
+- **Crypto Custody Sub-Project**:  
+  - Developing a multi-chain crypto custody service (Safe) for secure asset management.  
   - Implementing a Safe-like system with threshold signatures for withdrawals by multiple owners.  
   - Enhancing security using EigenLayer’s AVS nodes and Zellular’s infrastructure.  
+  - User friendly UI to Deposit/Withdraw multi-chain assets.
+  - API to manage and withdraw assets.
+  - Supprting Ethereum, Solana, TON, ... blockchains Assets.
 
 ### Muon Core  
 **Muon Community** | [https://github.com/muon-protocol](https://github.com/muon-protocol)  
+Muon is a decentralized network to develope your own custom oracle systems secured by +1000 nodes.
 - Developed core functionality for Muon Core, a blockchain framework.  
 - Implemented cryptography algorithms for threshold signatures.  
 - Designed a decentralized network involving over 3,000 nodes.  
+
+### Distributed Permissionless Map Service
+**Personal Project** | Ongoing 
+
+**Keywords:** `Blockchain`, `Distributed Systems`, `React Native`, `Node.js`, `Staking`, `Tokenomics`, `Cryptography`
+- Designing and developing a decentralized, permissionless map service that enables open participation without central control.
+- Building a React Native client application for seamless and interactive user access to distributed map data.
+- Implementing a Node.js–based distributed server architecture where node operators must stake project tokens to participate in network operations.
+- Designing an on-chain staking and reward mechanism that incentivizes node runners for maintaining uptime, accuracy, and service quality.
+- Focusing on scalability, trustless coordination, and cryptographic verification to ensure security and transparency within the ecosystem.
 
 ---
 
