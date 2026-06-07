@@ -11,12 +11,29 @@ Highly skilled and motivated full-stack developer with a strong background in de
 ---
 
 ## Skills  
-- **Languages**: Typescript, Solidity, Rust, Python  
+- **Languages**: Rust, TypeScript, JavaScript, Solidity, Python, C/C++
 - **Frontend**: React, React Native, HTML5, CSS3  
 - **Backend**: Node.js, Express, MongoDB  
-- **Blockchain**: Smart contract development, tokenization, Ethereum, Solana, Zero-Knowledge proofs, Threshold Signatures  
-- **Tools**: Git, Hardhat, Truffle, Web3.js, Voxel.js  
-- **Other**: Distributed systems, RESTful APIs, Multi-Party Computation, Decentralized Networks, Agile collaboration  
+- **Blockchain**: Ethereum, Solana, EVM, Smart Contracts, Tokenization  
+- **Cryptography**: Threshold Signatures, Schnorr Signatures, MPC, Distributed Key Generation (DKG), Zero-Knowledge Proofs, Cryptographic Protocol Design
+- **Systems Programming**: Rust, Async Programming (Tokio), FFI, WASM, JNI, Memory Optimization, Concurrency
+- **Distributed Systems**: Consensus Systems, Decentralized Networks, Multi-node Architectures
+- **Tools**: Git, Docker, Anchor, Hardhat, Truffle, Solana/Ethereum Web3.js
+
+---
+
+## Selected Achievements
+
+* Developed blockchain infrastructure and cryptographic systems using Rust, TypeScript, and Python.
+* Designed distributed systems supporting thousands of decentralized nodes.
+* Implemented threshold signature, multi-party computation (MPC), and distributed key generation (DKG) protocols.
+* Built multi-chain solutions supporting Ethereum, Solana, TON, and EVM-compatible networks.
+* Developed smart contracts and on-chain applications for Ethereum and EVM-compatible blockchains using Solidity.
+* Developed Solana programs in Rust, including on-chain business logic and blockchain integrations.
+* Developed a cross-language cryptography SDK with JavaScript, Python, and C++ bindings built on the Zcash FROST threshold-signature protocol.
+* Designed secure digital asset custody and authorization systems using threshold cryptography.
+* Developed shared Rust libraries targeting native, mobile, and WebAssembly environments.
+
 
 ---
 
@@ -24,12 +41,21 @@ Highly skilled and motivated full-stack developer with a strong background in de
 
 ### Blockchain Developer
 **Zellular** | Remote
+`2023-02 - Present`
+
+- Developed a Rust-based cross-language cryptography library based on the Zcash FROST threshold-signature protocol.
+- Designed and implemented bindings for JavaScript/TypeScript, Python, and C++ applications through FFI interfaces.
+- Built a unified API enabling threshold key generation, signing, and verification across multiple programming languages.
 - Integrated advanced cryptographic solutions into Zellular’s internal projects.
 - Implemented multi-blockchain deposit functionality for ZEX (Zellular Exchange).
 - Developed and integrated distributed security mechanisms using threshold signatures to enhance shared consensus.
 
+
+
 ### Blockchain Developer  
 **Muon Community** | Remote  
+`2021-05 - 2022-08`
+
 - Developed a REST API using Node.js and Express.js to interface with the core system.  
 - Implemented cryptographic techniques and security algorithms to safeguard data from unauthorized access.  
 - Designed a decentralized network with over 3,000 nodes for robust scalability.  
@@ -42,12 +68,16 @@ Highly skilled and motivated full-stack developer with a strong background in de
 
 ### Full-Stack Developer  
 **Freelance** | Remote  
+`2019-05 - 2021-05`
+
 - Built front-end and back-end features for websites using HTML, CSS, JavaScript, React, Node.js, and MongoDB.  
 - Designed web-based games with Voxel.js, an HTML5 game framework.  
 - Created Web3 applications with Solidity and Ethereum, integrating blockchain and cryptocurrency functionality.  
 
 ### Full-Stack Developer  
 **Trip Travel Agency** | Shiraz, Fars, Iran  
+`2016-05 - 2019-04`
+
 - Developed a REST API backend with Node.js and MongoDB for efficient data management.  
 - Built an Android app using React Native for seamless flight and hotel booking.  
 - Designed client-side websites for users and admins to search, book, and manage travel orders.  
@@ -65,12 +95,12 @@ Zellular is a light-weight consensus layer &amp; decentralized sequencer that en
 - Designed and implemented cryptographic solutions to ensure sub-second finality and data integrity across decentralized nodes.  
 - Optimized blockchain scalability and security for applications developed in JavaScript, Python, and Go.  
 - **Crypto Custody Sub-Project**:  
-  - Developing a multi-chain crypto custody service (Safe) for secure asset management.  
+  - Developing a multi-chain crypto custody service (Safe-like system) for secure asset management.  
   - Implementing a Safe-like system with threshold signatures for withdrawals by multiple owners.  
   - Enhancing security using EigenLayer’s AVS nodes and Zellular’s infrastructure.  
   - User friendly UI to Deposit/Withdraw multi-chain assets.
   - API to manage and withdraw assets.
-  - Supprting Ethereum, Solana, TON, ... blockchains Assets.
+  - Supporting Ethereum, Solana, TON, and other blockchain assets.
 
 ### Muon Core  
 **Muon Community** | [https://github.com/muon-protocol](https://github.com/muon-protocol)  
